@@ -1,0 +1,4 @@
+myname = 'Maksim'
+print("Hi, i am " + str(myname))
+theirname = input("What is your name?:")
+print("Nice to meet you, " + str(theirname) + ".")
